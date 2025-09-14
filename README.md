@@ -38,7 +38,8 @@ A **Retrieval-Augmented Generation (RAG) Chatbot** that helps restaurants delive
 
 The system is built using RAG principles with embeddings, vector search, and an AI model working together to generate precise answers.  
 
-![Architecture](RAG_chatbot_for_Restaurant_architecture.jpg)  
+<img width="1485" height="710" alt="image" src="https://github.com/user-attachments/assets/98b814b3-e124-45df-a16e-9bc03d8c3c33" />
+
 
 ---
 
