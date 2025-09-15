@@ -53,6 +53,9 @@ The system is built using RAG principles with embeddings, vector search, and an 
 
 ## 💻 How to Run  
 1. Clone the repository:
-```bash
+   ```bash
    git clone https://github.com/dhairya48ML/RAG_chatbot_for_Restaurant.git
    cd restaurant-rag-chatbot
+
+2. Run the code.
+
